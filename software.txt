@@ -1,0 +1,22 @@
+多媒体：
+Kazam
+kdenlive
+WPS
+SimpleScreenRecorder
+shutter
+youdao dict
+mendeley
+dropbox
+ZOOM
+
+工具：
+synaptic
+terminator
+cheat
+mNetAssist
+LibreCAD
+
+coding:
+Atom
+SmartGit
+
