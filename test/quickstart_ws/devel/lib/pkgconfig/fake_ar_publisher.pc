@@ -1,0 +1,1 @@
+/home/kevin/test/quickstart_ws/devel/.private/fake_ar_publisher/lib/pkgconfig/fake_ar_publisher.pc

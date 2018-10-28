@@ -1,0 +1,4 @@
+pkg_c
+/home/kevin/test/quickstart_ws/devel/.private/pkg_c/share/pkg_c/cmake/pkg_cConfig.cmake /home/kevin/test/quickstart_ws/devel/share/pkg_c/cmake/pkg_cConfig.cmake
+/home/kevin/test/quickstart_ws/devel/.private/pkg_c/share/pkg_c/cmake/pkg_cConfig-version.cmake /home/kevin/test/quickstart_ws/devel/share/pkg_c/cmake/pkg_cConfig-version.cmake
+/home/kevin/test/quickstart_ws/devel/.private/pkg_c/lib/pkgconfig/pkg_c.pc /home/kevin/test/quickstart_ws/devel/lib/pkgconfig/pkg_c.pc

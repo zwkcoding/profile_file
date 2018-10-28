@@ -1,0 +1,3 @@
+/home/kevin/test/opencv_test/CMakeFiles/edit_cache.dir
+/home/kevin/test/opencv_test/CMakeFiles/rebuild_cache.dir
+/home/kevin/test/opencv_test/CMakeFiles/test.dir

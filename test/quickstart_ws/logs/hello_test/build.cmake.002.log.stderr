@@ -1,0 +1,11 @@
+[31m[1mCMake Error[0m at /home/kevin/test/quickstart_ws/src/hello_test/CMakeLists.txt:143 (add_executable):
+  Cannot find source file:
+
+    src/testclient_node.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: testclient_node
+CMake Error: Cannot determine link language for target "testclient_node".

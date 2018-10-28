@@ -1,0 +1,8 @@
+prefix=/home/kevin/test/quickstart_ws/install
+
+Name: hello_test
+Description: Description of hello_test
+Version: 0.0.0
+Cflags: -I/home/kevin/test/quickstart_ws/install/include
+Libs: -L/home/kevin/test/quickstart_ws/install/lib 
+Requires: roscpp fake_ar_publisher message_runtime geometry_msgs

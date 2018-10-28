@@ -1,0 +1,3 @@
+catkin config --cache-env --cmake-args -DUSE_ROS=1 -DCMAKE_CXX_FLAGS="-Wall -Wextra" -DCMAKE_BUILD_TYPE=Release
+catkin run_tests --no-deps --this
+catkin config --extend ~/catkin_ws/devel

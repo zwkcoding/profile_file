@@ -1,0 +1,1 @@
+/home/kevin/test/quickstart_ws/devel/.private/hello_test/lib/python2.7/dist-packages/hello_test/srv/__init__.py

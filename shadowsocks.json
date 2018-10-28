@@ -1,0 +1,11 @@
+{
+"server":"203.104.213.78",
+"server_port":443,
+"local_address":"127.0.0.1",
+"local_port":10900,
+"password":"nopasswd",
+"timeout":300,
+"method":"none",
+"fast_open":false,
+"workers":1
+}

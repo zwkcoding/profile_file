@@ -1,0 +1,7 @@
+[01m[K/home/kevin/test/quickstart_ws/src/hello_test/src/testclient_node.cpp:[m[K In constructor ‘[01m[KScanNPlan::ScanNPlan(ros::NodeHandle&)[m[K’:
+[01m[K/home/kevin/test/quickstart_ws/src/hello_test/src/testclient_node.cpp:15:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kvision_client_[m[K’ was not declared in this scope
+     vision_client_ = nh.serviceClient<hello_test::LocalizePart>("localize_part");
+[01;32m[K     ^[m[K
+make[2]: *** [CMakeFiles/testclient_node.dir/src/testclient_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/testclient_node.dir/all] Error 2
+make: *** [all] Error 2

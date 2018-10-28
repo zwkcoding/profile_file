@@ -1,0 +1,8 @@
+prefix=/home/kevin/test/quickstart_ws/devel/.private/fake_ar_publisher
+
+Name: fake_ar_publisher
+Description: Description of fake_ar_publisher
+Version: 0.0.0
+Cflags: -I/home/kevin/test/quickstart_ws/devel/.private/fake_ar_publisher/include
+Libs: -L/home/kevin/test/quickstart_ws/devel/.private/fake_ar_publisher/lib 
+Requires: roscpp std_msgs visualization_msgs

@@ -1,0 +1,8 @@
+prefix=/home/kevin/test/quickstart_ws/src/hello_test/cmake-build-debug/devel
+
+Name: hello_test
+Description: Description of hello_test
+Version: 0.0.0
+Cflags: -I/home/kevin/test/quickstart_ws/src/hello_test/cmake-build-debug/devel/include
+Libs: -L/home/kevin/test/quickstart_ws/src/hello_test/cmake-build-debug/devel/lib 
+Requires: roscpp fake_ar_publisher message_runtime geometry_msgs

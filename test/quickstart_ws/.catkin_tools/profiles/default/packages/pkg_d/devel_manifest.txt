@@ -1,0 +1,4 @@
+pkg_d
+/home/kevin/test/quickstart_ws/devel/.private/pkg_d/share/pkg_d/cmake/pkg_dConfig.cmake /home/kevin/test/quickstart_ws/devel/share/pkg_d/cmake/pkg_dConfig.cmake
+/home/kevin/test/quickstart_ws/devel/.private/pkg_d/share/pkg_d/cmake/pkg_dConfig-version.cmake /home/kevin/test/quickstart_ws/devel/share/pkg_d/cmake/pkg_dConfig-version.cmake
+/home/kevin/test/quickstart_ws/devel/.private/pkg_d/lib/pkgconfig/pkg_d.pc /home/kevin/test/quickstart_ws/devel/lib/pkgconfig/pkg_d.pc

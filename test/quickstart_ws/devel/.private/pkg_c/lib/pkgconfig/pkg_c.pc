@@ -1,0 +1,8 @@
+prefix=/home/kevin/test/quickstart_ws/devel/.private/pkg_c
+
+Name: pkg_c
+Description: Description of pkg_c
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kevin/test/quickstart_ws/devel/.private/pkg_c/lib 
+Requires: 

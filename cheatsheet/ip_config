@@ -1,0 +1,13 @@
+# show ip address of network card
+ip addr show
+ip a s
+ip addr show enp0s3
+# enable/disable network card
+sudo ip link set enp0s3 up/down
+# assign ip address to network card
+sudo ip addr add 192.168.0.50/255.255.255.0 dev enp0s3
+# check network or gate route
+ip route show
+# add default static route
+sudo ip route add default via 192.168.0.150/24
+

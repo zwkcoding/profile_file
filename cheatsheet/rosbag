@@ -1,0 +1,1 @@
+rostopic echo -b bagfile.bag -p /desired_topic > csvfilename.csv

@@ -1,0 +1,8 @@
+prefix=/home/kevin/test/quickstart_ws/devel/.private/pkg_d
+
+Name: pkg_d
+Description: Description of pkg_d
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kevin/test/quickstart_ws/devel/.private/pkg_d/lib 
+Requires: 

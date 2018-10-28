@@ -1,0 +1,7 @@
+#! /usr/bin/env bash
+read -p "your name?" name
+if [[ $name = $USER ]];then
+   echo "hello,me."
+else
+    echo "hello, $name."
+fi

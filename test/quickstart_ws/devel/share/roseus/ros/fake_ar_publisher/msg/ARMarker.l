@@ -1,0 +1,1 @@
+/home/kevin/test/quickstart_ws/devel/.private/fake_ar_publisher/share/roseus/ros/fake_ar_publisher/msg/ARMarker.l

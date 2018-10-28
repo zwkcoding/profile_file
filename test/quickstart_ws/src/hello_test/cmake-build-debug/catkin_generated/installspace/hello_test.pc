@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: hello_test
+Description: Description of hello_test
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib 
+Requires: roscpp fake_ar_publisher message_runtime geometry_msgs

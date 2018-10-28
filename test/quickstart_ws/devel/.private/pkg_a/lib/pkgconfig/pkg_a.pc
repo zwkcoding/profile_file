@@ -1,0 +1,8 @@
+prefix=/home/kevin/test/quickstart_ws/devel/.private/pkg_a
+
+Name: pkg_a
+Description: Description of pkg_a
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kevin/test/quickstart_ws/devel/.private/pkg_a/lib 
+Requires: 

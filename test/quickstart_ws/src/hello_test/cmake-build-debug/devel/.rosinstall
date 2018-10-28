@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kevin/test/quickstart_ws/src/hello_test/cmake-build-debug/devel/setup.sh

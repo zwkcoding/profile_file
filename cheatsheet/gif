@@ -1,0 +1,8 @@
+1.convert -delay 120 -loop 0 *.png test.gif
+2.ffmpeg -ss 00:00:08 -i ./input.mp4 -to 00:00:10 -r 5 -vf scale=300:-1 ./output.gif
+-ss : 开始时间 
+-i : 视频文件 
+-to : 持续时间， 
+-r : 帧速率，可以增大这个值输出更画质更优的 GIF 文件 
+-vf : 图形筛选器，GIF 的缩放大小
+3.

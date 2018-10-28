@@ -1,0 +1,5 @@
+* rostopic echo -c /topic_name
+* rostopic echo -p /topic_name
+* rostopic echo -b log_file.bag /topic_name
+* rostopic echo /my_topic/field_name
+

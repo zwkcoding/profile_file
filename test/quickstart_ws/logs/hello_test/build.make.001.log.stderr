@@ -1,0 +1,7 @@
+[01m[K/home/kevin/test/quickstart_ws/src/hello_test/src/hello_test_node.cpp:[m[K In constructor ‘[01m[KLocalizer::Localizer(ros::NodeHandle&)[m[K’:
+[01m[K/home/kevin/test/quickstart_ws/src/hello_test/src/hello_test_node.cpp:15:52:[m[K [01;31m[Kerror: [m[K‘[01m[KlocalizerPart[m[K’ is not a member of ‘[01m[KLocalizer[m[K’
+     server_ = nh.advertiseService("localize_part",&Localizer::localizerPart,this);
+[01;32m[K                                                    ^[m[K
+make[2]: *** [CMakeFiles/hello_test_node.dir/src/hello_test_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/hello_test_node.dir/all] Error 2
+make: *** [all] Error 2
